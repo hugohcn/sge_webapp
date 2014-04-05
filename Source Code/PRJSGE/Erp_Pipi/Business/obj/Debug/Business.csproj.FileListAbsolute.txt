@@ -1,0 +1,27 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Business.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Business.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Access.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Access.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Debug\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Debug\Business.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Debug\Business.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Business.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Business.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Access.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Access.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\bin\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\obj\Debug\Business.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Business\obj\Debug\Business.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Business.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Business.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Access.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Access.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Debug\Business.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Debug\Business.pdb

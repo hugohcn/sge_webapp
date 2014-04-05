@@ -1,0 +1,881 @@
+<publishData>
+  <publishTarget publishUrl="D:\PRODUCAO\PRJSGE_\PublishFiles\">
+    <file relUrl="App_Themes/Office2003 Silver/Web/hlTail.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvTitleBack.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtDropDownButtonPressedBack.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvParentGroupRows.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Aqua/Web/pFirst.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Web/mVerticalPopOut.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Glass/Web/pcModalBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvHeaderFilter.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditIncrementImageDisabled.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinIncBtnHBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Plastic Blue/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtButtonBack.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="reports/frmReportCaixa.aspx" publishTime="08/22/2009 04:47:17" />
+    <file relUrl="App_Themes/Plastic Blue/Web/smThirdLevelBullet.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="reports/frmReportEstoque.aspx" publishTime="08/22/2009 06:23:45" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupand.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpHeaderRightEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinLargeIncBtnPBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pAll.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditLargeIncImage.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabLeftHottrackedBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mItemSeparatorBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="frmManterTipoProduto.aspx" publishTime="07/18/2009 12:11:31" />
+    <file relUrl="App_Themes/Soft Orange/Web/nbCollapse.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/MacOS/Web/rpHeaderLeftEdge.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/Glass/Web/tcHTabBottomBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditDecrementDisabledImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Blue/Web/mItemSBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/BlackGlass/Web/Loading.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="reports/frmProdutoVendaDiaByProduto.aspx" publishTime="08/29/2009 18:34:03" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mSeparatorHor.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/BlackGlass/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="bin/DevExpress.Web.ASPxEditors.v8.3.dll" publishTime="02/05/2009 15:30:24" />
+    <file relUrl="App_Themes/Glass/Web/nbCollapse.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/styles.css" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvLast.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Web/pFirst.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarFootBtnH.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Glass/Web/pNextDisabled.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="bin/DevExpress.Web.ASPxGridView.v8.3.dll" publishTime="02/05/2009 15:30:26" />
+    <file relUrl="App_Themes/Aqua/Editors/edtButtonBackDis.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Glass/Web/ncBackToTop.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbCollapse.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mItemHBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Glass/Web/pLast.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/MacOS/Web/rpBottomEdge.png" publishTime="01/30/2009 13:06:49" />
+    <file relUrl="App_Themes/HatchedGray/Web/rpContent.png" publishTime="01/30/2009 13:06:49" />
+    <file relUrl="App_Themes/BlackGlass/Web/pAll.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbHBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeIncDisabledImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Glass/Web/tcTabBottomBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpContentLeftEdge.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Glass/Web/pcContentBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinDecBtnBack.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Aqua/Web/pcCloseButton.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pFirstDisabled.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvNext.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabRightBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="bin/Entity.dll" publishTime="09/01/2009 23:15:21" />
+    <file relUrl="App_Themes/Glass/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarButtonHoverBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="bin/DevExpress.Web.ASPxScheduler.v8.3.dll" publishTime="02/05/2009 15:30:28" />
+    <file relUrl="App_Themes/Blue/Web/tcTabBack.gif" publishTime="01/30/2009 13:06:34" />
+    <file relUrl="App_Themes/Aqua/Web/rpBottomLeft.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Web/pPrevDisabled.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/MacOS/Web/rpLeftEdge.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="bin/Access.pdb" publishTime="10/25/2009 13:09:11" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvGroupPanelBackground.gif" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopbetween.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Silver/Web/styles.css" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tcBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/MacOS/Web/rpRightEdge.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotblank.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Glass/Web/mVItemBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Glass/Web/mLargeItemHBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarFNNextYear.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpHeaderRightEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotany.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvDragAndDropArrowDown.gif" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Aqua/Web/smLevelBullet.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvFocusedBack.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="frmAmbiente.aspx" publishTime="07/18/2009 11:57:36" />
+    <file relUrl="App_Themes/Aqua/Editors/edtEllipsisPressed.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpNoHeaderTopEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Editors/edtEllipsis.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotany.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mItemSBack.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tcTabBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Blue/Web/pFirst.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpLeftEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtError.png" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="frmManterClientes.aspx" publishTime="07/18/2009 12:02:44" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/Loading.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcoplike.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Web/tcTabBack.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopless.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotbetween.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="bin/DevExpress.Web.ASPxGridView.v8.3.Export.dll" publishTime="02/05/2009 15:30:26" />
+    <file relUrl="reports/imgs/calendario.jpg" publishTime="08/22/2009 01:06:40" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditLargeDecImageDisabled.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pPrevDisabled.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Glass/Web/pPrevDisabled.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Glass/Web/pAllDisabled.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarPrevMonthDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcaddhot.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabRightBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvAllDis.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopbetween.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Aqua/Web/rpTopRight.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Web/pAll.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/BlackGlass/Web/mItemBackH.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pFirst.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Editors/fcoplike.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Web/rpNoHeaderTopEdge.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/BlackGlass/Web/nbItemBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabRightABack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Blue/Web/pFirstDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/smBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeDecImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/MacOS/Web/styles.css" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/BlackGlass/Web/pPrevDisabled.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Blue/Web/pPrevDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Silver/Web/rpBottomRightCorner.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Aqua/Web/pcSizeGrip.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditLargeIncImageDisabled.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Glass/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Glass/Web/rpLeftRightEdge.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarPrevYear.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="bin/DevExpress.Charts.v8.3.Core.dll" publishTime="02/05/2009 15:30:20" />
+    <file relUrl="App_Themes/BlackGlass/Web/pLastDisabled.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pcModalBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbGroupHeaderBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopend.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Glass/Web/tcContentBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Glass/Web/hlTail.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Aqua/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopcontain.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Glass/Web/pNext.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/tcTabBackH.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="bin/Common.pdb" publishTime="09/01/2009 23:15:22" />
+    <file relUrl="frmLogin.aspx" publishTime="07/20/2009 23:06:41" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Web/pNext.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinIncButtonHoverBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvPrevDis.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/HeaderLeftEdge.png" publishTime="05/22/2009 01:34:10" />
+    <file relUrl="App_Themes/Soft Orange/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Soft Orange/Web/mVSeparatorBack.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtEllipsis.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="bin/DevExpress.XtraPrinting.v8.3.dll" publishTime="02/05/2009 15:31:04" />
+    <file relUrl="App_Themes/Blue/Web/pcCloseButton.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopany.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="bin/DevExpress.Web.ASPxSpellChecker.v8.3.xml" publishTime="01/30/2009 07:27:02" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditDecrementImage.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarFNPrevYear.png" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarFootBtn.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Web/dvPagerPanelBack.gif" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mPopupHBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtDropDown.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcModalBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Blue/Web/mSeparatorBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Blue/Web/smSecondLevelBullet.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Blue/Web/Loading.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/smFirstLevelBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcremove.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="imgs/sobre.jpg" publishTime="08/21/2009 23:25:35" />
+    <file relUrl="reports/frmProdutoVendaDia.aspx" publishTime="08/29/2009 16:37:33" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcSizeGrip.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/styles.css" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Web/nbHeaderBack.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tcTabABack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/TopRightCorner.png" publishTime="05/22/2009 01:34:09" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvExpandedButton.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="js/principal.js" publishTime="07/07/2009 00:47:54" />
+    <file relUrl="App_Themes/Blue/Web/tiBackToTop.png" publishTime="01/30/2009 13:06:34" />
+    <file relUrl="App_Themes/Glass/Web/rpHeaderBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="frmManterVenda.aspx" publishTime="07/18/2009 12:13:11" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownDisabled.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tiGroupHeader.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabBottomABack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Blue/Web/pcModalBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabLeftBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvHeaderFilter.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="bin/Presentation.pdb" publishTime="10/25/2009 13:11:12" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopany.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Aqua/Web/Loading.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopless.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Editors/fcremove.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="bin/DevExpress.XtraCharts.v8.3.Web.xml" publishTime="01/30/2009 07:27:14" />
+    <file relUrl="App_Themes/BlackGlass/Web/nbCollapse.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbGroupBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="bin/DevExpress.Web.ASPxHtmlEditor.v8.3.xml" publishTime="01/30/2009 07:27:02" />
+    <file relUrl="App_Themes/Soft Orange/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Aqua/Web/mVertHBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarHeader.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/BlackGlass/Web/mItemBackLevel0.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbGroupBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonBack.gif" publishTime="01/30/2009 13:08:45" />
+    <file relUrl="App_Themes/Aqua/GridView/styles.css" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="bin/DevExpress.ExpressApp.HtmlPropertyEditor.Web.v8.3.dll" publishTime="02/05/2009 16:13:16" />
+    <file relUrl="Web.config" publishTime="08/29/2009 02:54:00" />
+    <file relUrl="App_Themes/Blue/Web/dvLastDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Glass/Web/mItemHBack.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Aqua/Web/nbGroupHeaderBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Web/pLastDisabled.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/MacOS/Web/rpContent.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="imgs/btnContato.jpg" publishTime="07/03/2009 02:23:37" />
+    <file relUrl="bin/DevExpress.XtraPivotGrid.v8.3.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="App_Themes/Aqua/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditLargeDecImageDisabled.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Aqua/Web/mHorizontalPopOutH.png" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditLargeIncImage.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="reports/imgs/sge_topo.gif" publishTime="06/20/2009 14:12:17" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopequal.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarNextMonthDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Soft Orange/Web/tiBackToTop.png" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/MacOS/Web/rpHeaderContent.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarPrevYear.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="bin/DevExpress.Web.v8.3.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="bin/Business.pdb" publishTime="10/25/2009 13:09:12" />
+    <file relUrl="DevKeysregisterGacs.txt" publishTime="08/22/2009 00:02:05" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/BottomRightCorner.png" publishTime="05/22/2009 01:34:09" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mItemHBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Silver/Web/rpBottomBack.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonPressedBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupaddcondition.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarPrevYearDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="bin/DevExpress.Data.v8.3.dll" publishTime="02/05/2009 15:30:20" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mItemBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpHeaderLeftEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcoplessorequal.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Blue/Web/ncTail.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/smFirstLevelBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpBottomEdge.gif" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pFirstDisabled.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbHBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/GridView/gvCollapsedButton.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tcTabHBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtRadioButtonOff.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarFNNextYear.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Aqua/GridView/gvDetailExpandedButton.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="frmManterCarteiraCliente.aspx" publishTime="07/18/2009 12:01:06" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mItemBack.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Web/mItemChecked.gif" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Blue/Web/smFirstLevelBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpBottomEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpLeftEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownPressed.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpHeader.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="bin/DevExpress.XtraPrinting.v8.3.Design.dll" publishTime="02/05/2009 15:31:04" />
+    <file relUrl="bin/DevExpress.Web.ASPxPivotGrid.v8.3.Export.dll" publishTime="02/05/2009 15:30:28" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabTopBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="Global.asax" publishTime="07/21/2009 00:11:02" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvDragAndDropHideColumn.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Glass/Web/pcCloseButton.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/smSecondLevelBullet.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarNextYear.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/WindowResizer.gif" publishTime="01/30/2009 13:06:56" />
+    <file relUrl="App_Themes/MacOS/Web/rpHeaderRightEdge.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/BlackGlass/Web/mVerticalItemBack.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopcontain.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Soft Orange/Web/pLast.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Glass/Web/pAll.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpContentBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/BlackGlass/Web/styles.css" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvHeaderSortDown.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="bin/DevExpress.XtraEditors.v8.3.xml" publishTime="01/30/2009 07:27:08" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditDecrementImage.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupnotor.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="imgs/btnBuscar.gif" publishTime="02/02/2009 15:27:36" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotcontain.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditLargeDecImage.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Aqua/Web/pcModalBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabHBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonBackDis.gif" publishTime="01/30/2009 13:08:45" />
+    <file relUrl="App_Themes/Glass/Web/smLevel0Back.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/pPrev.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtButtonBackHover.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="bin/DevExpress.Web.ASPxPivotGrid.v8.3.dll" publishTime="02/05/2009 15:30:26" />
+    <file relUrl="App_Themes/Aqua/GridView/gvExpandedButton.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="bin/DevExpress.Web.ASPxScheduler.v8.3.xml" publishTime="01/30/2009 07:27:02" />
+    <file relUrl="App_Themes/Blue/Web/nbExpand.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditLargeIncImageDisabled.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pNext.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/GridView/gvHeaderSortDown.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpTopEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinIncBtnBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Glass/Web/mLargeItemBack.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/Loading.gif" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="bin/DevExpress.Utils.v8.3.xml" publishTime="01/30/2009 07:27:02" />
+    <file relUrl="App_Themes/Aqua/Editors/edtButtonHoverBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcaddhot.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pPrevDisabled.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Blue/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupand.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mItemSBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvLoadingOnStatusBar.gif" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarPrevMonth.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarFNPrevYear.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotbetween.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotequal.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvDragAndDropArrowUp.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="bin/Business.dll" publishTime="10/25/2009 13:09:12" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopblank.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Aqua/Editors/fcremovehot.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Aqua/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarButtonHoverBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Aqua/Web/rpNoHeaderTopRight.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvDragAndDropHideColumn.gif" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Blue/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Web/mItemBack.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarPrevYearDisabled.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Blue/Web/nbHeaderBackCollapsed.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="bin/Entity.pdb" publishTime="09/01/2009 23:15:21" />
+    <file relUrl="bin/Presentation.dll" publishTime="10/25/2009 13:11:12" />
+    <file relUrl="App_Themes/BlackGlass/Web/nbExpand.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="controls/rodape.ascx" publishTime="07/18/2009 11:50:13" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabLeftHBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpHeaderRightEdge.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/hlTail.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopgreaterorequal.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="bin/Coolite.Ext.Web.dll" publishTime="06/29/2009 02:33:30" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabLeftABack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Web/nbCollapse.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="frmManterEstoque.aspx" publishTime="07/18/2009 12:04:57" />
+    <file relUrl="App_Themes/Blue/Web/pLastDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="reports/imgs/Information.png" publishTime="08/22/2009 00:36:13" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbSBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/BlackGlass/Web/tcTabBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Soft Orange/GridView/styles.css" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopgreaterorequal.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupremove.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcremove.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopgreaterorequal.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Glass/Web/pLast.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Aqua/Web/nbLoading.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="imgs/btn_Login.jpg" publishTime="07/03/2009 02:18:22" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpTopEdge.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="reports/imgs/sobre.jpg" publishTime="08/29/2009 18:37:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tcTabHBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeDecDisabledImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/GridView/gvDragAndDropArrowUp.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="js/ui.slider.js" publishTime="07/07/2009 00:16:33" />
+    <file relUrl="App_Themes/Glass/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pLast.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Blue/Web/nbBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mPopupBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mPopupSeparatorBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/MacOS/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:06:49" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinIncBtnHBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditLargeDecImage.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Blue/Web/tcHTabBack.gif" publishTime="01/30/2009 13:06:34" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarNextMonth.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/BlackGlass/Web/pFirst.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Glass/Web/pFirstDisabled.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Glass/Web/tcHTabBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvCollapsedButton.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvHeaderSortUp.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Aqua/GridView/gvDragAndDropHideColumn.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="bin/DevExpress.XtraPivotGrid.v8.3.dll" publishTime="02/05/2009 15:31:04" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvHeaderSortDown.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="controls/cabecalho.ascx" publishTime="08/22/2009 00:01:10" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupor.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/styles.css" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarButtonBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotlike.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopless.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvGroupRowBack.gif" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/HeaderContent.png" publishTime="05/22/2009 01:34:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mPopupHBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Aqua/Editors/Loading.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Blue/Web/mLargeItemSBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Aqua/Web/mBack.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Blue/Web/mItemBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinLargeIncBtnBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopbegin.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/BlackGlass/Web/mItemBackS.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupaddcondition.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopequal.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Blue/Web/pNextDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/pLast.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="bin/DevExpress.XtraCharts.v8.3.Web.dll" publishTime="02/05/2009 15:30:54" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDown.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcoplike.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Glass/Web/pFirst.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Web/mSeparator.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownHottracked.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvHeaderFilterActive.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/styles.css" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Aqua/Web/pPrevDisabled.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtButtonBackPressed.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpTopEdge.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Glass/Web/rpHeaderRightEdge.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/nbHeaderBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/styles.css" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupnotand.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonEditButtonBackDis.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabLeftBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Web/pFirstDisabled.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Blue/Web/smBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pcCloseButton.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="master.Master" publishTime="07/18/2009 12:13:51" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotcontain.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="bin/DevExpress.XtraCharts.v8.3.xml" publishTime="01/30/2009 07:27:16" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvNextDis.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpHeaderTopEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/GridView/gvFilterRowButton.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="bin/Common.dll" publishTime="09/01/2009 23:15:22" />
+    <file relUrl="App_Themes/Blue/Web/pNext.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tcBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarPrevMonthDisabled.png" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/GridView/gvDragAndDropArrowDown.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="bin/DevExpress.XtraReports.v8.3.Web.xml" publishTime="01/30/2009 07:27:16" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupaddgroup.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotlike.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Blue/Web/ncBackToTop.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Glass/Web/mLargeItemSBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinLargeIncBtnHBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/BlackGlass/Web/smBullet.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Aqua/Web/mItemSBack.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarFNNextYear.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Glass/Web/ncTail.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtEllipsisDisabled.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="imgs/bt_mn_produtos.jpg" publishTime="07/07/2009 00:28:58" />
+    <file relUrl="imgs/back_login.jpg" publishTime="07/03/2009 00:57:23" />
+    <file relUrl="App_Themes/Soft Orange/Web/pcSizeGrip.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtDropDownDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotbetween.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarNextYearDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/Loading.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Web/pAllDisabled.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pNextDisabled.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pAll.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Blue/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="bin/DevExpress.Web.ASPxPivotGrid.v8.3.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="App_Themes/Soft Orange/Web/pPrev.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeIncHottrackedImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopend.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Aqua/Web/pPrev.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Editors/edtEllipsisHottracked.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Code/CompressionModule.cs" publishTime="07/20/2009 23:36:27" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mItemSeparatorBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mItemBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvLoading.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Aqua/Editors/edtButtonCheckedBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Blue/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Glass/Web/tcATabBottomBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabABack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabBottomHottrackedBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Silver/Web/rpTopLeftCorner.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Blue/Web/hlTail.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonCheckedBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Web/mHorizontalPopOut.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarPrevMonth.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Blue/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Aqua/Web/mHorizontalPopOut.png" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Glass/Web/pAll.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/GridView/gvPagerBottomPanelBackground.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinIncBtnBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinDecBtnBack.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditIncrementImageDisabled.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcoplessorequal.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditDecrementImageDisabled.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Soft Orange/GridView/WindowResizer.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Aqua/Editors/edtButtonBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarFootBtnP.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotequal.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Glass/Web/rpContentBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="reports/frmReportVendaPeriodo.aspx" publishTime="08/22/2009 04:17:16" />
+    <file relUrl="App_Themes/Plastic Blue/Web/nbHeaderBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeDecHottrackedImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupor.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Blue/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotequal.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Silver/Web/rpTopRightCorner.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Glass/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabTopHottrackedBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="frmManterRevendedor.aspx" publishTime="07/18/2009 12:07:24" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mItemVerticalSeparatorBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="bin/DevExpress.Utils.v8.3.dll" publishTime="02/05/2009 15:30:24" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditDecrementImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcContentBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Web/pAll.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="bin/DevExpress.XtraEditors.v8.3.dll" publishTime="02/05/2009 15:30:54" />
+    <file relUrl="App_Themes/Soft Orange/Web/pNextDisabled.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Glass/Web/mVItemHBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="frmManterProdutos.aspx" publishTime="07/18/2009 12:06:35" />
+    <file relUrl="bin/DevExpress.Data.v8.3.xml" publishTime="01/30/2009 07:27:00" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditDecrementImageDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="bin/Coolite.Utilities.dll" publishTime="06/29/2009 02:33:22" />
+    <file relUrl="App_Themes/Soft Orange/Web/tcATabBottomBack.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Plastic Blue/Web/nbExpand.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupaddgroup.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Aqua/Web/dxpcFooterBack.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpTopEdge.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcadd.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarButtonPressedBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonHoverBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/principal.css" publishTime="07/07/2009 00:26:22" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mItemSBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Editors/edtButtonPressedBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Aqua/GridView/gvParentGroupRows.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Soft Orange/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Soft Orange/Web/pcModalBack.gif" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mSeparator.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbCollapse.png" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarPrevMonthDisabled.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Editors/fcadd.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtEllipsisDisabled.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Blue/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcContentBackHor.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinDecButtonPressedBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="bin/DevExpress.XtraReports.v8.3.dll" publishTime="02/05/2009 15:31:06" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopnotlike.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbSBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvLoadingOnStatusBar.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="reports/frmReportVenda.aspx" publishTime="08/22/2009 02:24:38" />
+    <file relUrl="App_Themes/Plastic Blue/Web/pcModalBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/nbItemBullet.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinDecBtnBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/HatchedGray/Web/rpHeaderContent.png" publishTime="01/30/2009 13:06:49" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopequal.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Silver/Web/rpContentBack.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinIncBtnBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Glass/Web/pcContentWithTabBottomBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/tiItemBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Plastic Blue/Web/nbLoading.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/GridView/WindowResizer.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Soft Orange/Web/Loading.gif" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pPrev.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinIncBtnPBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupnotor.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="frmManterTipoPagamento.aspx" publishTime="07/18/2009 12:10:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarFooterBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Glass/Web/pNextDisabled.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupaddgroup.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/BlackGlass/Web/pAllDisabled.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinLargeIncBtnHBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Aqua/Editors/fcoplessorequal.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Web/rpTopLeft.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/BlackGlass/Web/mItemBack.gif" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Glass/Web/pLastDisabled.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvLastDis.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="05/18/2009 13:34:32" />
+    <file relUrl="App_Themes/Soft Orange/Web/pFirstDisabled.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Soft Orange/Web/mItemBack.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="js/ui.core.js" publishTime="07/07/2009 00:44:35" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarNextYearDisabled.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Blue/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Glass/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/smBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbExpand.png" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/nbGroupHeaderBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Glass/Web/pPrev.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvDragAndDropArrowUp.gif" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Blue/Web/pAll.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Web/nbExpand.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvParentGroupRows.gif" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpRightEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/BlackGlass/Web/pNextDisabled.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvPrev.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Glass/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditIncrementImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/BlackGlass/Web/mHorizontalPopOut.png" publishTime="01/30/2009 13:06:30" />
+    <file relUrl="App_Themes/Glass/Web/pcFooterBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupnotand.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcremovehot.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/nbExpand.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Web/rpBottomRight.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Web/mItemHBack.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopgreater.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pLastDisabled.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="bin/DevExpress.XtraScheduler.v8.3.Core.xml" publishTime="01/30/2009 07:27:04" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinDecButtonHoverBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotblank.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Glass/Web/pcSizeGrip.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Glass/Web/mVItemSBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tcTabAHBack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupand.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpHeaderLeftEdge.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Aqua/Editors/fcgroupremove.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Glass/Web/tcTabBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpHeaderSeparator.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Glass/Web/styles.css" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Glass/Web/nbHeaderHBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="frmManterCusto.aspx" publishTime="07/18/2009 12:03:26" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinIncBtnPBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarFNPrevYear.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Aqua/GridView/Loading.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Blue/Web/tcTabABack.gif" publishTime="01/30/2009 13:06:34" />
+    <file relUrl="bin/DevExpress.XtraReports.v8.3.Web.dll" publishTime="02/05/2009 15:31:08" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/smSecondLevelBullet.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownBackDis.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/GridView/gvGroupPanelBackground.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotblank.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="imgs/back_menu_login.jpg" publishTime="07/03/2009 01:11:29" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarFNPrevYear.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabRightHBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="bin/DevExpress.XtraReports.v8.3.xml" publishTime="01/30/2009 07:27:16" />
+    <file relUrl="App_Themes/Blue/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabBottomBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownButtonHoverBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Blue/Web/pLast.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupaddcondition.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Glass/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="style/principal.css" publishTime="05/27/2009 02:30:59" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarNextYear.png" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvGradient.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/styles.css" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/MacOS/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:06:50" />
+    <file relUrl="App_Themes/Soft Orange/Editors/styles.css" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtDropDown.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcCloseButton.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpContentBottomEdge.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabBottomHBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="frmManterTipoCusto.aspx" publishTime="08/21/2009 22:04:41" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpHeaderBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pAllDisabled.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Web/tcTabRightHottrackedBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtDropDownButtonHoverBack.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Glass/Web/pPrev.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/mItemHBack.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Aqua/Web/rpNoHeaderTopLeft.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Web/tiGoToTop.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="imgs/btnContatoHover.jpg" publishTime="07/03/2009 02:31:52" />
+    <file relUrl="App_Themes/Glass/Web/tcATabBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="imgs/sge_topo.gif" publishTime="06/20/2009 14:12:17" />
+    <file relUrl="bin/DevExpress.XtraSpellChecker.v8.3.Core.dll" publishTime="02/05/2009 15:31:14" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpHeaderLeftEdge.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarNextYear.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Web/pNext.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Glass/Web/tiHeaderBack.gif" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvFilterRowButton.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pcHeaderBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="controls/menu.ascx" publishTime="08/29/2009 18:26:45" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/Loading.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Blue/Web/rpBottomRightCorner.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcItemFooter.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Soft Orange/Web/tcATabBack.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarPrevYearDisabled.png" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Web/pAllDisabled.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/rpHeader.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupnotor.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pcModalBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditDecrementHottrackedImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="bin/DevExpress.XtraPivotGrid.v8.3.Core.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupor.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarPrevMonth.png" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopcontain.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/GridView/gvHeaderBackground.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/HatchedGray/Web/styles.css" publishTime="01/30/2009 13:06:49" />
+    <file relUrl="App_Themes/Glass/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/smSecondLevelBullet.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Web/pcCloseButton.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Glass/Web/mItemBack.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvDragAndDropArrowDown.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mItemVerticalSeparatorBack.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcgroupremove.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcTabBottomBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvCollapsedButton.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditLargeIncImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Soft Orange/Web/mVerticalPopOut.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtRadioButtonOn.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/NoHeaderTopLeftCorner.png" publishTime="05/22/2009 01:34:09" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopblank.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvHeaderFilterActive.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Blue/Web/rpHeaderEdge.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarNextMonth.png" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcgroupnotand.png" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvFirstDis.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Blue/Web/mLargeItemHBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcopnotcontain.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Plastic Blue/Web/ncLoading.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpBottomLeftCorner.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mSubMenuItem.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tcTabBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarHeaderBack.gif" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tiBackToTop.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpTopRightCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Blue/Web/nbHeaderHBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvFilterRowButton.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tiLoading.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Editors/edtError.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarNextMonthDisabled.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/smLevel0Back.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditIncrementHottrackedImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/BlackGlass/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtError.png" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpNoHeaderTopEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Aqua/Editors/fcaddhot.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tcTabAHBack.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtDropDownDisabled.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Soft Orange/Web/nbHeaderHBack.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinEditIncrementDisabledImage.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mPopupBack.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/BlackGlass/Web/pNext.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/BottomLeftCorner.png" publishTime="05/22/2009 01:34:09" />
+    <file relUrl="bin/DevExpress.Web.ASPxEditors.v8.3.xml" publishTime="01/30/2009 07:27:04" />
+    <file relUrl="App_Themes/Aqua/Web/pNextDisabled.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/GridView/gvHeaderSortUp.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Soft Orange/GridView/Loading.gif" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="bin/DevExpress.Web.ASPxPivotGrid.v8.3.Export.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="App_Themes/Glass/Web/nbHeaderBack.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/mPopupSeparatorBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Blue/Web/dvItemBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/Loading.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/NoHeaderTopRightCorner.png" publishTime="05/22/2009 01:34:10" />
+    <file relUrl="App_Themes/Aqua/Web/mVertSBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Editors/edtSpinIncButtonPressedBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="controls/favoritos.ascx" publishTime="07/18/2009 11:42:14" />
+    <file relUrl="App_Themes/Glass/Web/pNext.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/pcSizeGrip.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinEditIncrementImage.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/tcTabABack.gif" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Glass/Web/rpTopLeftCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tiGotToBackP.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinLargeIncBtnPBack.gif" publishTime="01/30/2009 13:08:48" />
+    <file relUrl="App_Themes/Glass/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcTabBack.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pcCloseButton.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtSpinLargeIncBtnBack.gif" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="imgs/bt_mn_home.jpg" publishTime="07/07/2009 00:24:24" />
+    <file relUrl="App_Themes/Glass/Web/rpHeaderLeftEdge.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/tcLoading.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Web/mHorizontalPopOutH.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pLastDisabled.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvPagerBack.gif" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Web/mSeparatorBack.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/mVerticalPopOut.gif" publishTime="01/30/2009 13:07:04" />
+    <file relUrl="App_Themes/Aqua/Web/mVerticalSeparator.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopbegin.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Editors/edtCalendarFNNextYear.png" publishTime="01/30/2009 13:05:51" />
+    <file relUrl="App_Themes/BlackGlass/Web/pFirstDisabled.png" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="controls/login.ascx" publishTime="08/22/2009 06:34:02" />
+    <file relUrl="App_Themes/Blue/Web/tiContentBottom.gif" publishTime="01/30/2009 13:06:34" />
+    <file relUrl="App_Themes/Blue/Web/pAllDisabled.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Aqua/GridView/gvLoadingOnStatusBar.gif" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/tiBackToTop.gif" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Aqua/Web/rpLeftEdge.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="bin/DevExpress.XtraPrinting.v8.3.xml" publishTime="01/30/2009 07:27:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/pcSizeGrip.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/BlackGlass/Web/nbItemBackH.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="bin/DevExpress.Web.ASPxSpellChecker.v8.3.dll" publishTime="02/05/2009 15:30:30" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopgreater.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Aqua/Web/styles.css" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Glass/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopend.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Plastic Blue/Web/nbCollapse.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pNextDisabled.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Glass/Web/pAllDisabled.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/nbCollapse.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvAll.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="bin/Access.dll" publishTime="10/25/2009 13:09:11" />
+    <file relUrl="App_Themes/Aqua/GridView/gvHeaderFilter.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Aqua/Web/mGutterRightBorder.gif" publishTime="01/30/2009 13:06:05" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pcSizeGrip.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Glass/Web/mItemSBack.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtEllipsis.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopblank.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Editors/edtDropDownButtonPressedBack.gif" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Web/pLast.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Glass/Web/pFirst.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/pPrev.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Soft Orange/Web/pcFooterBack.gif" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/HeaderRightEdge.png" publishTime="05/22/2009 01:34:10" />
+    <file relUrl="App_Themes/Plastic Blue/Web/rpRightEdge.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtButtonBackDis.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcadd.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="05/18/2009 13:34:32" />
+    <file relUrl="App_Themes/Plastic Blue/Web/pcFooterBack.gif" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/fcremovehot.png" publishTime="01/30/2009 13:08:49" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarNextMonthDisabled.png" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtButtonEditButtonBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Blue/Web/mItemHBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/Blue/Web/mLargeItemBack.gif" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcItemCloseButton.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Glass/Web/nbExpand.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/styles.css" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/mHorizontalPopOut.gif" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="js/jquery.js" publishTime="07/07/2009 00:15:47" />
+    <file relUrl="bin/DevExpress.XtraCharts.v8.3.dll" publishTime="02/05/2009 15:30:52" />
+    <file relUrl="App_Themes/Aqua/Web/rpRightEdge.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pLast.png" publishTime="01/30/2009 13:07:46" />
+    <file relUrl="App_Themes/Aqua/Web/mVertBack.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpNoHeaderTopRightCorner.png" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Soft Orange/Web/pLastDisabled.png" publishTime="01/30/2009 13:09:06" />
+    <file relUrl="App_Themes/Glass/Web/pFirstDisabled.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Blue/Web/rpHeaderBack.png" publishTime="01/30/2009 13:06:33" />
+    <file relUrl="bin/DevExpress.Web.ASPxHtmlEditor.v8.3.dll" publishTime="02/05/2009 15:30:26" />
+    <file relUrl="App_Themes/Soft Orange/Web/styles.css" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="App_Themes/Soft Orange/Web/rpHeaderBack.gif" publishTime="01/30/2009 13:09:07" />
+    <file relUrl="Images/ASPxRoundPanel/812869172/TopLeftCorner.png" publishTime="05/22/2009 01:34:09" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopbegin.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="frmManterPerfil.aspx" publishTime="07/18/2009 12:05:47" />
+    <file relUrl="bin/DevExpress.Web.v8.3.dll" publishTime="02/05/2009 15:30:30" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pNext.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarHeadBack.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Glass/Web/tiBackToTop.png" publishTime="01/30/2009 13:06:48" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopgreater.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="bin/DevExpress.XtraScheduler.v8.3.Core.dll" publishTime="02/05/2009 15:31:10" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarNextYearDisabled.png" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="bin/Coolite.Ext.Web.xml" publishTime="06/29/2009 02:33:28" />
+    <file relUrl="App_Themes/BlackGlass/Web/rpContentRightEdge.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcItemHeader.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="bin/DevExpress.Web.ASPxGridView.v8.3.Export.xml" publishTime="01/30/2009 07:27:06" />
+    <file relUrl="App_Themes/Plastic Blue/Web/pcCloseButton.png" publishTime="01/30/2009 13:08:10" />
+    <file relUrl="App_Themes/Office2003 Blue/GridView/gvHeaderSortUp.gif" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/rpNoHeaderTopLeftCorner.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Aqua/GridView/gvHeaderFilterActive.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Aqua/GridView/gvDetailCollapsedButton.png" publishTime="01/30/2009 13:05:53" />
+    <file relUrl="App_Themes/Aqua/Web/nbExpand.png" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/GridView/gvExpandedButton.png" publishTime="01/30/2009 13:08:50" />
+    <file relUrl="App_Themes/Glass/Web/Loading.gif" publishTime="01/30/2009 13:06:46" />
+    <file relUrl="App_Themes/Office2003 Silver/Web/pPrev.png" publishTime="01/30/2009 13:07:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopnotany.png" publishTime="01/30/2009 13:06:55" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtEllipsisDisabled.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/fcopany.png" publishTime="01/30/2009 13:06:54" />
+    <file relUrl="App_Themes/Office2003 Blue/Editors/edtCalendarNextMonth.gif" publishTime="01/30/2009 13:06:53" />
+    <file relUrl="App_Themes/BlackGlass/Web/pcTabBackH.gif" publishTime="01/30/2009 13:06:31" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pFirst.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="bin/DevExpress.XtraPivotGrid.v8.3.Core.dll" publishTime="02/05/2009 15:31:02" />
+    <file relUrl="App_Themes/Glass/Web/pPrevDisabled.png" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Aqua/Editors/fcopbetween.png" publishTime="01/30/2009 13:05:52" />
+    <file relUrl="App_Themes/Aqua/Web/rpBottomEdge.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="reports/imgs/Information.jpg" publishTime="08/22/2009 00:40:42" />
+    <file relUrl="App_Themes/Plastic Blue/Web/dvFirst.png" publishTime="01/30/2009 13:08:09" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarButtonPressedBack.gif" publishTime="01/30/2009 13:08:46" />
+    <file relUrl="App_Themes/Glass/Web/pLastDisabled.gif" publishTime="01/30/2009 13:06:47" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pcSizeGrip.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Office2003 Blue/Web/pAllDisabled.png" publishTime="01/30/2009 13:07:05" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtCalendarPrevYear.png" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Soft Orange/Web/mItemBackH.png" publishTime="01/30/2009 13:09:05" />
+    <file relUrl="App_Themes/Aqua/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:06:06" />
+    <file relUrl="App_Themes/Soft Orange/Editors/edtSpinEditIncrementImage.gif" publishTime="01/30/2009 13:08:47" />
+    <file relUrl="App_Themes/Silver/Web/rpBottomLeftCorner.gif" publishTime="01/30/2009 13:08:40" />
+    <file relUrl="App_Themes/BlackGlass/Web/mSubMenuItemChecked.gif" publishTime="01/30/2009 13:06:30" />
+  </publishTarget>
+</publishData>

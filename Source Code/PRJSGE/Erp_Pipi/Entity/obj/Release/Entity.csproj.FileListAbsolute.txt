@@ -1,0 +1,10 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\bin\Release\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\bin\Release\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Release\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Release\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\bin\Release\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\bin\Release\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Release\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Release\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Release\Entity.pdb

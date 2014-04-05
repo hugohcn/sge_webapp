@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{71E60946-8E6A-4152-A03A-276FB4792768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{771AD5FB-024E-4787-8BA0-34898CF5003F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access", "Access\Access.csproj", "{76460DB0-71D9-49DF-856C-CF5AF7B70325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{AA05D6F1-5895-466F-9392-2F7116A6F6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{C08F5901-6ABE-427E-8D1E-FC2A60BE0455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloVendas", "ModuloVendas\ModuloVendas.csproj", "{1A859E80-ED22-49D8-88EC-736A0F1E2333}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SGESetup", "SGESetup\SGESetup.vdproj", "{1128C3B8-E079-467E-AF77-A60493F4919F}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = SGESetup\\SGESetup.vdproj
+		SccProjectName0 = \u0022$/Erp_Pipi.root/Erp_Pipi/SGESetup\u0022,\u0020ISBAAAAA
+		SccLocalPath0 = SGESetup
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E60946-8E6A-4152-A03A-276FB4792768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E60946-8E6A-4152-A03A-276FB4792768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E60946-8E6A-4152-A03A-276FB4792768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E60946-8E6A-4152-A03A-276FB4792768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771AD5FB-024E-4787-8BA0-34898CF5003F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771AD5FB-024E-4787-8BA0-34898CF5003F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771AD5FB-024E-4787-8BA0-34898CF5003F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771AD5FB-024E-4787-8BA0-34898CF5003F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76460DB0-71D9-49DF-856C-CF5AF7B70325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76460DB0-71D9-49DF-856C-CF5AF7B70325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76460DB0-71D9-49DF-856C-CF5AF7B70325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76460DB0-71D9-49DF-856C-CF5AF7B70325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA05D6F1-5895-466F-9392-2F7116A6F6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA05D6F1-5895-466F-9392-2F7116A6F6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA05D6F1-5895-466F-9392-2F7116A6F6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA05D6F1-5895-466F-9392-2F7116A6F6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08F5901-6ABE-427E-8D1E-FC2A60BE0455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08F5901-6ABE-427E-8D1E-FC2A60BE0455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08F5901-6ABE-427E-8D1E-FC2A60BE0455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08F5901-6ABE-427E-8D1E-FC2A60BE0455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A859E80-ED22-49D8-88EC-736A0F1E2333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A859E80-ED22-49D8-88EC-736A0F1E2333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A859E80-ED22-49D8-88EC-736A0F1E2333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A859E80-ED22-49D8-88EC-736A0F1E2333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1128C3B8-E079-467E-AF77-A60493F4919F}.Debug|Any CPU.ActiveCfg = Debug
+		{1128C3B8-E079-467E-AF77-A60493F4919F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

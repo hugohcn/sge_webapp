@@ -1,0 +1,15 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\bin\Debug\Common.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\bin\Debug\Common.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Debug\Common.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Debug\Common.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Common\bin\Debug\Common.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Common\bin\Debug\Common.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Common\obj\Debug\Common.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Common\obj\Debug\Common.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\bin\Debug\Common.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\bin\Debug\Common.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Debug\Common.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Debug\Common.pdb

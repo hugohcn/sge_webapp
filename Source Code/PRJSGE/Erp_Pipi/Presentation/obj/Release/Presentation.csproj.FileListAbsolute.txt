@@ -1,0 +1,122 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Presentation.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Presentation.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Access.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Business.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Common.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Data.v8.3.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxEditors.v8.3.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxScheduler.v8.3.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.v8.3.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Common.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxEditors.v8.3.xml
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxScheduler.v8.3.xml
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Business.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Data.v8.3.xml
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\Access.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\bin\DevExpress.Web.v8.3.xml
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\obj\Release\Presentation.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Presentation\obj\Release\Presentation.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Presentation.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Presentation.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Access.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Business.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Common.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Charts.v8.3.Core.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Data.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.ExpressApp.HtmlPropertyEditor.Web.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Utils.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxEditors.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxGridView.v8.3.Export.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxHtmlEditor.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.Export.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxScheduler.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxSpellChecker.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.Web.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraEditors.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.Core.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPrinting.v8.3.Design.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPrinting.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.Web.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraScheduler.v8.3.Core.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraScheduler.v8.3.Core.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxScheduler.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.Web.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxSpellChecker.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPrinting.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxGridView.v8.3.Export.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Common.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxEditors.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Utils.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Access.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxHtmlEditor.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraEditors.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Data.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.Export.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Business.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.Core.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.Web.xml
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptCaixa.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptEstoque.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptProdutoVendaDia.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptVenda.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptVendaPeriodo.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.TemplateReport.resources
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.csproj.GenerateResource.Cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Presentation.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Presentation.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Access.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Business.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Common.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Entity.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraSpellChecker.v8.3.Core.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraScheduler.v8.3.Core.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxScheduler.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.Web.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxSpellChecker.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPrinting.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Entity.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxGridView.v8.3.Export.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Common.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxEditors.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Utils.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Access.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxHtmlEditor.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraEditors.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Data.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.Web.ASPxPivotGrid.v8.3.Export.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\Business.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.Core.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraCharts.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraPivotGrid.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\bin\DevExpress.XtraReports.v8.3.Web.xml
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\ResolveAssemblyReference.cache
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptCaixa.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptEstoque.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptProdutoVendaDia.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptVenda.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.rptVendaPeriodo.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.reports.TemplateReport.resources
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.csproj.GenerateResource.Cache
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Presentation\obj\Release\Presentation.pdb

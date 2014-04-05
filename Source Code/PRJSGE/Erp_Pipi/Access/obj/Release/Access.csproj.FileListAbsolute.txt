@@ -1,0 +1,14 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\bin\Release\Access.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\bin\Release\Access.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\bin\Release\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\bin\Release\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\obj\Release\Access.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Access\obj\Release\Access.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\bin\Release\Access.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\bin\Release\Access.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\bin\Release\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\bin\Release\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\obj\Release\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\obj\Release\Access.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Access\obj\Release\Access.pdb

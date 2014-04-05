@@ -1,0 +1,10 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\bin\Release\Common.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\bin\Release\Common.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Release\Common.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Common\obj\Release\Common.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\bin\Release\Common.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\bin\Release\Common.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Release\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Release\Common.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Common\obj\Release\Common.pdb

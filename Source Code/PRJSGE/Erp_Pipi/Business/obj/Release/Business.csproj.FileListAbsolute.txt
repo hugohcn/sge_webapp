@@ -1,0 +1,27 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Business.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Business.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Access.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Access.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\bin\Release\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Release\Business.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Business\obj\Release\Business.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Business.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Business.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Access.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Access.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\Business.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\Business.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Business.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Business.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Access.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Entity.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Access.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\bin\Release\Entity.pdb
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\ResolveAssemblyReference.cache
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\Business.dll
+C:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Business\obj\Release\Business.pdb

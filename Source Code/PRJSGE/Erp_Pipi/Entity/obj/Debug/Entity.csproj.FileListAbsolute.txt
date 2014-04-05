@@ -1,0 +1,15 @@
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\bin\Debug\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\bin\Debug\Entity.pdb
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Debug\Entity.dll
+D:\Documents and Settings\Hugo Carvalho\Desktop\Projeto Pipi\Erp_Pipi\Entity\obj\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Entity\bin\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Entity\bin\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Entity\obj\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE\Erp_Pipi\Entity\obj\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\bin\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\bin\Debug\Entity.pdb
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Debug\Entity.dll
+D:\PRODUCAO\PRJSGE_\PRJSGE\Erp_Pipi\Entity\obj\Debug\Entity.pdb
